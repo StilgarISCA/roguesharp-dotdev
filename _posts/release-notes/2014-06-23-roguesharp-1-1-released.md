@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "RogueSharp 1.1 Released – Cave-Like Map Creation Using Cellular Automata"
+title: "RogueSharp 1.1 Released"
+tagline: "Cave-Like Map Creation Using Cellular Automata"
 category: release-notes
 ---
 
