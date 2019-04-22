@@ -9,10 +9,10 @@ category: release-notes
 
 ## RogueSharp Version 1.1
 
-Version 1.1 of RogueSharp was just released. It now includes a new map creation strategy for creating cave-like maps based off of an article on RogueBasin with some custom modifications.
+Version 1.1 of RogueSharp was just released. It now includes a new map creation strategy for creating cave-like maps based off of an [article on RogueBasin](http://www.roguebasin.com/index.php?title=Cellular_Automata_Method_for_Generating_Random_Cave-Like_Levels) with some custom modifications.
 
-* RogueSharp v1.1 Nuget Package
-* RogueSharp v1.1 Source Code
+* [RogueSharp v1.1 Nuget Package](https://www.nuget.org/packages/RogueSharp/1.1.0)
+* [RogueSharp v1.1 Source Code](https://github.com/FaronBracy/RogueSharp/releases/tag/v1.1)
 
 ### Usage
 
