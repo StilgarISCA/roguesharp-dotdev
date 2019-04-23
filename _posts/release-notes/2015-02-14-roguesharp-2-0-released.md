@@ -9,7 +9,7 @@ category: release-notes
 
 on 2.0 of RogueSharp was just released. It now contains better functionality for dealing with Dice and parsing [Dice Notation](http://en.wikipedia.org/wiki/Dice_notation) strings.
 
-* [RogueSharp v2.0 Nuget Package](https://www.nuget.org/packages/RogueSharp/2.0)
+* [RogueSharp v2.0 Nuget Package](https://www.nuget.org/packages/RogueSharp/2.0.0)
 * [RogueSharp v2.0 Source Code](https://github.com/FaronBracy/RogueSharp/releases/tag/v2.0)
 
 [Dice Notation .NET](https://dicenotation.codeplex.com/) – Significant portions of the code in RougeSharp.DiceNotation namespace are from this great library. Thank you to Chris Wagner for originally creating this.
